@@ -15,7 +15,7 @@ kelas A
 - Peran pengguna dan admin
 - Mengelola pesanan pelanggan
 - Melihat harga layanan
-- - Registrasi dan login pengguna
+- Registrasi dan login pengguna
 - Desain responsif dengan Bootstrap
 - Ikon untuk antarmuka yang ramah pengguna
 ## Requirements
