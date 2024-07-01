@@ -1,3 +1,30 @@
+## Dosen Pengampu
+- SAIFUL NUR BUDIMAN, S.Kom., M.Kom
+## MATA KULIAH
+- Pemrograman Web Lanjut
+## KELOMPOK 3 
+kelas A
+- Virganda Rimba Asmara	  22104410010
+- Zoulvia Hanest Khinanti 21104410011
+- Rizky Yuniz Teresya	  21104410013
+- Khariratul Istiqlaliya  22104410026
+- Bintang lailatul M      22104410062
+## Laravel Website Service Laundry (UAS)  
+-Proyek ini adalah aplikasi berbasis web untuk mengelola layanan laundry. Aplikasi ini dibangun menggunakan Laravel dan mencakup fitur untuk manajemen data pelanggan, pemrosesan pesanan, dan daftar layanan.
+##  Fitur
+- Peran pengguna dan admin
+- Mengelola pesanan pelanggan
+- Melihat harga layanan
+- Registrasi dan login pengguna
+- Desain responsif dengan Bootstrap
+- Ikon untuk antarmuka yang ramah pengguna
+## Requirements
+- PHP >= 7.3
+- Composer
+- MySQL
+- Node.js and npm (for frontend dependencies)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
