@@ -1,12 +1,20 @@
-## MATA KULIAH
-- Pemrograman Web Lanjut
-## KELOMPOK 3 
-kelas A
-- Virganda Rimba Asmara	  22104410010
-- Zoulvia Hanest Khinanti 21104410011
-- Rizky Yuniz Teresya	  21104410013
-- Khariratul Istiqlaliya  22104410026
-- Bintang lailatul M      22104410062
+## 👥 Kelompok 3 - Kelas 5 A
+
+| No  | Nama                        | NIM           |
+|-----|-----------------------------|---------------|
+| 1   | Virganda Rimba Asmara       | 22104410010   |
+| 2   | Zoulvia Hanest Khinanti     | 21104410011   |
+| 3   | Rizky Yuniz Teresya         | 21104410013   |
+| 4   | Tandito Dwi Oktavian        | 22104410017   |
+| 5   | Muhamad Gus Amix Kusuma     | 22104410054   |
+| 6   | Bintang Lailatul Mukharomah | 22104410062   |
+
+---
+
+## 📚 Mata Kuliah
+**Pemrograman API**
+
+---
 ## Laravel Website Service Laundry (UAS)  
 -Proyek ini adalah aplikasi berbasis web untuk mengelola layanan laundry. Aplikasi ini dibangun menggunakan Laravel dan mencakup fitur untuk manajemen data pelanggan, pemrosesan pesanan, dan daftar layanan.
 ##  Fitur
